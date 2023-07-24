@@ -326,3 +326,4 @@ class GUI:
             cv2.imshow('container', board)
             cv2.waitKey()
             cv2.destroyWindow('container')
+    

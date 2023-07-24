@@ -1,0 +1,28 @@
+{
+  "data": { "image": "/data/upload/6/4a33c26e-2.jpg" },
+  "annotations": [
+    {
+      "result": [
+        {
+          "original_width": 575,
+          "original_height": 1022,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+
+          "value": {
+            "closed": true,
+
+            "points": [
+              [6.059288537549407, 21.306818181818183],
+              [20.197628458498023, 22.15909090909091],
+              [19.692687747035574, 29.545454545454547],
+              [4.544466403162056, 30.39772727272727]
+            ]
+          },
+          "type": "polygonlabels"
+        }
+      ]
+    }
+  ]
+}
