@@ -9,6 +9,7 @@
           "from_name": "label",
           "image_rotation": 0,
           "to_name": "image",
+          "type": "polygonlabels",
 
           "value": {
             "closed": true,
@@ -19,8 +20,8 @@
               [19.692687747035574, 29.545454545454547],
               [4.544466403162056, 30.39772727272727]
             ]
-          },
-          "type": "polygonlabels"
+          }
+          
         }
       ]
     }

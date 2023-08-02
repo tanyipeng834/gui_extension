@@ -1,0 +1,248 @@
+[
+    {
+        "id": "b-1",
+        "class": "Block",
+        "children": [
+            {
+                "id": "l-0",
+                "class": "List",
+                "text_content": null,
+                "location": {
+                    "left": 10,
+                    "right": 34,
+                    "top": 18,
+                    "bottom": 38
+                },
+                "list_class": "single",
+                "list_alignment": "v",
+                "list_items": [
+                    [
+                        {
+                            "id": "c-0",
+                            "class": "Compo",
+                            "text_content": null,
+                            "location": {
+                                "left": 10,
+                                "right": 34,
+                                "top": 18,
+                                "bottom": 22
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "id": "c-1",
+                            "class": "Compo",
+                            "text_content": null,
+                            "location": {
+                                "left": 10,
+                                "right": 34,
+                                "top": 26,
+                                "bottom": 30
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "id": "c-2",
+                            "class": "Compo",
+                            "text_content": null,
+                            "location": {
+                                "left": 10,
+                                "right": 34,
+                                "top": 34,
+                                "bottom": 38
+                            }
+                        }
+                    ]
+                ]
+            },
+            {
+                "id": "c-12",
+                "class": "Text",
+                "text_content": "PARKING.SG",
+                "location": {
+                    "left": 189,
+                    "right": 307,
+                    "top": 18,
+                    "bottom": 40
+                }
+            },
+            {
+                "id": "c-16",
+                "class": "Text",
+                "text_content": "v2.0.2",
+                "location": {
+                    "left": 439,
+                    "right": 485,
+                    "top": 23,
+                    "bottom": 35
+                }
+            }
+        ],
+        "location": {
+            "left": 10,
+            "right": 485,
+            "top": 18,
+            "bottom": 40
+        }
+    },
+    {
+        "id": "b-2",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-5",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 47,
+                    "right": 68,
+                    "top": 312,
+                    "bottom": 318
+                }
+            },
+            {
+                "id": "c-14",
+                "class": "Text",
+                "text_content": "30\nMIN",
+                "location": {
+                    "left": 214,
+                    "right": 289,
+                    "top": 296,
+                    "bottom": 331
+                }
+            },
+            {
+                "id": "c-4",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 428,
+                    "right": 457,
+                    "top": 299,
+                    "bottom": 330
+                }
+            }
+        ],
+        "location": {
+            "left": 47,
+            "right": 457,
+            "top": 296,
+            "bottom": 331
+        }
+    },
+    {
+        "id": "b-3",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-6",
+                "class": "Block",
+                "text_content": null,
+                "location": {
+                    "left": 25,
+                    "right": 475,
+                    "top": 361,
+                    "bottom": 482
+                }
+            },
+            {
+                "id": "c-10",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 25,
+                    "right": 249,
+                    "top": 363,
+                    "bottom": 479
+                }
+            },
+            {
+                "id": "c-11",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 252,
+                    "right": 474,
+                    "top": 363,
+                    "bottom": 478
+                }
+            }
+        ],
+        "location": {
+            "left": 25,
+            "right": 475,
+            "top": 361,
+            "bottom": 482
+        }
+    },
+    {
+        "id": "b-4",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-7",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 48,
+                    "right": 69,
+                    "top": 498,
+                    "bottom": 526
+                }
+            },
+            {
+                "id": "c-15",
+                "class": "Text",
+                "text_content": "Blk 29-39 Dover Road CLAR6",
+                "location": {
+                    "left": 104,
+                    "right": 373,
+                    "top": 503,
+                    "bottom": 520
+                }
+            }
+        ],
+        "location": {
+            "left": 48,
+            "right": 373,
+            "top": 498,
+            "bottom": 526
+        }
+    },
+    {
+        "id": "b-5",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-8",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 42,
+                    "right": 75,
+                    "top": 567,
+                    "bottom": 585
+                }
+            },
+            {
+                "id": "c-13",
+                "class": "Text",
+                "text_content": "SR1234T",
+                "location": {
+                    "left": 104,
+                    "right": 184,
+                    "top": 568,
+                    "bottom": 581
+                }
+            }
+        ],
+        "location": {
+            "left": 42,
+            "right": 184,
+            "top": 567,
+            "bottom": 585
+        }
+    }
+]

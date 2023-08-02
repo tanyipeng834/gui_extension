@@ -1,0 +1,485 @@
+{
+  "data": { "image": "/data/upload/12/545e38ed-4.jpg" },
+  "annotations": [
+    {
+      "result": [
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [0.0, 0.0],
+              [0.0, 37.5],
+              [99.78586723768737, 37.5],
+              [99.78586723768737, 0.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [29.550321199143468, 43.0],
+              [29.550321199143468, 45.25],
+              [43.25481798715203, 45.25],
+              [43.25481798715203, 43.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [44.53961456102783, 43.0],
+              [44.53961456102783, 45.125],
+              [67.45182012847965, 45.125],
+              [67.45182012847965, 43.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [68.95074946466809, 43.5],
+              [68.95074946466809, 44.75],
+              [71.09207708779444, 44.75],
+              [71.09207708779444, 43.5]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [31.263383297644538, 47.75],
+              [31.263383297644538, 50.125],
+              [34.475374732334046, 50.125],
+              [34.475374732334046, 47.75]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [40.68522483940043, 48.0],
+              [40.68522483940043, 49.625],
+              [45.610278372591004, 49.625],
+              [45.610278372591004, 48.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [46.680942184154176, 48.0],
+              [46.680942184154176, 49.625],
+              [51.82012847965739, 49.625],
+              [51.82012847965739, 48.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [52.67665952890792, 48.0],
+              [52.67665952890792, 49.625],
+              [57.601713062098504, 49.625],
+              [57.601713062098504, 48.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [58.45824411134903, 48.0],
+              [58.45824411134903, 49.625],
+              [64.02569593147751, 49.625],
+              [64.02569593147751, 48.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [40.68522483940043, 56.99999999999999],
+              [40.68522483940043, 67.25],
+              [58.02997858672377, 67.25],
+              [58.02997858672377, 56.99999999999999]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [38.32976445396146, 73.375],
+              [38.32976445396146, 82.375],
+              [53.747323340471084, 82.375],
+              [53.747323340471084, 73.375]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [54.81798715203426, 73.5],
+              [54.81798715203426, 82.375],
+              [70.02141327623126, 82.375],
+              [70.02141327623126, 73.5]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [88.43683083511777, 73.5],
+              [88.43683083511777, 82.375],
+              [99.78586723768737, 82.375],
+              [99.78586723768737, 73.5]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [4.925053533190578, 74.25],
+              [4.925053533190578, 81.5],
+              [16.70235546038544, 81.5],
+              [16.70235546038544, 74.25]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [72.1627408993576, 76.0],
+              [72.1627408993576, 82.375],
+              [83.94004282655246, 82.375],
+              [83.94004282655246, 76.0]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [19.914346895074946, 77.25],
+              [19.914346895074946, 78.75],
+              [21.841541755888652, 78.75],
+              [21.841541755888652, 77.25]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [22.269807280513916, 77.25],
+              [22.269807280513916, 78.75],
+              [24.411134903640257, 78.75],
+              [24.411134903640257, 77.25]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [24.839400428265524, 77.25],
+              [24.839400428265524, 78.75],
+              [32.33404710920771, 78.75],
+              [32.33404710920771, 77.25]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [32.76231263383298, 77.25],
+              [32.76231263383298, 78.75],
+              [34.68950749464668, 78.75],
+              [34.68950749464668, 77.25]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [38.32976445396146, 86.375],
+              [38.32976445396146, 95.375],
+              [53.104925053533194, 95.375],
+              [53.104925053533194, 86.375]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [54.81798715203426, 86.375],
+              [54.81798715203426, 95.375],
+              [70.02141327623126, 95.375],
+              [70.02141327623126, 86.375]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [71.30620985010707, 86.375],
+              [71.30620985010707, 95.375],
+              [86.50963597430406, 95.375],
+              [86.50963597430406, 86.375]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [88.22269807280514, 86.375],
+              [88.22269807280514, 95.25],
+              [99.78586723768737, 95.25],
+              [99.78586723768737, 86.375]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [4.925053533190578, 87.375],
+              [4.925053533190578, 94.5],
+              [16.70235546038544, 94.5],
+              [16.70235546038544, 87.375]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [20.12847965738758, 90.125],
+              [20.12847965738758, 91.625],
+              [23.554603854389722, 91.625],
+              [23.554603854389722, 90.125]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [23.768736616702355, 90.125],
+              [23.768736616702355, 91.625],
+              [26.124197002141326, 91.625],
+              [26.124197002141326, 90.125]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [26.552462526766597, 90.125],
+              [26.552462526766597, 91.625],
+              [28.693790149892934, 91.625],
+              [28.693790149892934, 90.125]
+            ]
+          }
+        },
+        {
+          "original_width": 467,
+          "original_height": 800,
+          "from_name": "label",
+          "image_rotation": 0,
+          "to_name": "image",
+          "type": "polygonlabels",
+          "value": {
+            "closed": true,
+            "points": [
+              [28.90792291220557, 90.125],
+              [28.90792291220557, 91.625],
+              [33.61884368308351, 91.625],
+              [33.61884368308351, 90.125]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

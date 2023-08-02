@@ -1,0 +1,250 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 4,
+            "width": 24,
+            "position": {
+                "column_min": 10,
+                "row_min": 18,
+                "column_max": 34,
+                "row_max": 22
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 4,
+            "width": 24,
+            "position": {
+                "column_min": 10,
+                "row_min": 26,
+                "column_max": 34,
+                "row_max": 30
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 4,
+            "width": 24,
+            "position": {
+                "column_min": 10,
+                "row_min": 34,
+                "column_max": 34,
+                "row_max": 38
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 217,
+            "width": 502,
+            "position": {
+                "column_min": 0,
+                "row_min": 51,
+                "column_max": 502,
+                "row_max": 268
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 31,
+            "width": 29,
+            "position": {
+                "column_min": 428,
+                "row_min": 299,
+                "column_max": 457,
+                "row_max": 330
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 6,
+            "width": 21,
+            "position": {
+                "column_min": 47,
+                "row_min": 312,
+                "column_max": 68,
+                "row_max": 318
+            }
+        },
+        {
+            "id": 6,
+            "class": "Block",
+            "height": 121,
+            "width": 450,
+            "position": {
+                "column_min": 25,
+                "row_min": 361,
+                "column_max": 475,
+                "row_max": 482
+            },
+            "children": [
+                10,
+                11
+            ]
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 28,
+            "width": 21,
+            "position": {
+                "column_min": 48,
+                "row_min": 498,
+                "column_max": 69,
+                "row_max": 526
+            }
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 18,
+            "width": 33,
+            "position": {
+                "column_min": 42,
+                "row_min": 567,
+                "column_max": 75,
+                "row_max": 585
+            }
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 57,
+            "width": 446,
+            "position": {
+                "column_min": 27,
+                "row_min": 712,
+                "column_max": 473,
+                "row_max": 769
+            }
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 116,
+            "width": 224,
+            "position": {
+                "column_min": 25,
+                "row_min": 363,
+                "column_max": 249,
+                "row_max": 479
+            },
+            "parent": 6
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 115,
+            "width": 222,
+            "position": {
+                "column_min": 252,
+                "row_min": 363,
+                "column_max": 474,
+                "row_max": 478
+            },
+            "parent": 6
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 22,
+            "width": 118,
+            "position": {
+                "column_min": 189,
+                "row_min": 18,
+                "column_max": 307,
+                "row_max": 40
+            },
+            "text_content": "PARKING.SG"
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 13,
+            "width": 80,
+            "position": {
+                "column_min": 104,
+                "row_min": 568,
+                "column_max": 184,
+                "row_max": 581
+            },
+            "text_content": "SR1234T"
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 35,
+            "width": 75,
+            "position": {
+                "column_min": 214,
+                "row_min": 296,
+                "column_max": 289,
+                "row_max": 331
+            },
+            "text_content": "30\nMIN"
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 17,
+            "width": 269,
+            "position": {
+                "column_min": 104,
+                "row_min": 503,
+                "column_max": 373,
+                "row_max": 520
+            },
+            "text_content": "Blk 29-39 Dover Road CLAR6"
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 12,
+            "width": 46,
+            "position": {
+                "column_min": 439,
+                "row_min": 23,
+                "column_max": 485,
+                "row_max": 35
+            },
+            "text_content": "v2.0.2"
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 17,
+            "width": 445,
+            "position": {
+                "column_min": 25,
+                "row_min": 637,
+                "column_max": 470,
+                "row_max": 654
+            },
+            "text_content": "You get refunded for each minute of unused time if you"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 19,
+            "width": 249,
+            "position": {
+                "column_min": 126,
+                "row_min": 662,
+                "column_max": 375,
+                "row_max": 681
+            },
+            "text_content": "end your parking session early"
+        }
+    ],
+    "img_shape": [
+        800,
+        503,
+        3
+    ]
+}

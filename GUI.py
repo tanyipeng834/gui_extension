@@ -383,16 +383,95 @@ class GUI:
 
     def convert_to_label_format(self):
         # Read the shape of the image
+        output_data = {}
         width = 0
         height = 0
         ip_file = pjoin(self.output_dir, "ip", self.file_name+".json")
+        output_file = pjoin(self.output_dir, "ip",
+                            self.file_name+"_label_studio.json")
         with open(ip_file, "r") as json_file:
             data = json.load(json_file)
             width = data['img_shape'][1]
             print(width)
             height = data['img_shape'][0]
             print(height)
-            
+        print("Please upload your input image to Label Studio")
+        file_path = input("Please enter the file path from label studio\n")
+        output_data["data"] = {"image": file_path}
 
+        output_data["annotations"] = []
+        result_obj = []
 
+        layout_file = pjoin(self.output_dir, "ip", self.file_name+".json")
+        with open(layout_file, "r") as json_layout:
+            data_layout = json.load(json_layout)
+            # Go through the bigger group
 
+            # Treat this a an individual graph
+            for bounding_boxes in data_layout['compos']:
+                # print(self.extract_locations(
+                #     bounding_boxes['children'], output_data, width, height, result_obj))
+                object_data = {}
+                object_data['original_width'] = width
+                object_data['original_height'] = height
+                object_data['from_name'] = 'label'
+                object_data['image_rotation'] = 0
+                object_data['to_name'] = 'image'
+                object_data['type'] = 'polygonlabels'
+                print(bounding_boxes)
+
+                top = bounding_boxes['row_max']/height*100
+                bottom = bounding_boxes['row_min']/height*100
+                left = bounding_boxes['column_min']/width * 100
+                right = bounding_boxes['column_max']/width * 100
+
+                values = {}
+                values["closed"] = True
+                values["points"] = [[left, bottom], [left, top],
+                                    [right, top], [right, bottom]]
+                object_data['value'] = values
+                result_obj.append(object_data)
+            final_result_obj = {"result": result_obj}
+            output_data['annotations'] .append(final_result_obj)
+
+        with open(output_file, "w") as json_output:
+            json.dump(output_data, json_output)
+
+    # Using depth first seach to get all the locations
+    def extract_locations(self, data, output_data, width, height, results_obj):
+        locations = []
+
+        if isinstance(data, dict):
+            if "location" in data:
+                locations.append(data["location"])
+                object_data = {}
+                object_data['original_width'] = width
+                object_data['original_height'] = height
+                object_data['from_name'] = 'label'
+                object_data['image_rotation'] = 0
+                object_data['to_name'] = 'image'
+                object_data['type'] = 'polygonlabels'
+                top = data['location']['top']/height*100
+                bottom = data['location']['bottom']/height*100
+                left = data['location']['left']/width * 100
+                right = data['location']['right']/width * 100
+
+                values = {}
+                values["closed"] = True
+                values["points"] = [[left, bottom], [left, top],
+                                    [right, top], [right, bottom]]
+                object_data['value'] = values
+                results_obj.append(object_data)
+
+            for key, value in data.items():
+                if isinstance(value, (dict, list)):
+                    locations.extend(self.extract_locations(
+                        value, output_data, width, height, results_obj))
+
+        elif isinstance(data, list):
+            for item in data:
+                if isinstance(item, (dict, list)):
+                    locations.extend(self.extract_locations(
+                        item, output_data, width, height, results_obj))
+
+        return locations

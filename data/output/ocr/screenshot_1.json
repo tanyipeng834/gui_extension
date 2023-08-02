@@ -1,0 +1,199 @@
+{
+    "img_shape": [
+        512,
+        323,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "|||",
+            "column_min": 7,
+            "row_min": 9,
+            "column_max": 20,
+            "row_max": 21,
+            "width": 13,
+            "height": 12
+        },
+        {
+            "id": 1,
+            "content": "AYE",
+            "column_min": 5,
+            "row_min": 126,
+            "column_max": 22,
+            "row_max": 140,
+            "width": 17,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "( Toll",
+            "column_min": 22,
+            "row_min": 135,
+            "column_max": 39,
+            "row_max": 149,
+            "width": 17,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "Google",
+            "column_min": 3,
+            "row_min": 149,
+            "column_max": 54,
+            "row_max": 168,
+            "width": 51,
+            "height": 19
+        },
+        {
+            "id": 4,
+            "content": "CURRENT SESSION",
+            "column_min": 102,
+            "row_min": 12,
+            "column_max": 220,
+            "row_max": 23,
+            "width": 118,
+            "height": 11
+        },
+        {
+            "id": 5,
+            "content": "Ends Today",
+            "column_min": 59,
+            "row_min": 281,
+            "column_max": 118,
+            "row_max": 294,
+            "width": 59,
+            "height": 13
+        },
+        {
+            "id": 6,
+            "content": "7:29 PM",
+            "column_min": 58,
+            "row_min": 310,
+            "column_max": 122,
+            "row_max": 328,
+            "width": 64,
+            "height": 18
+        },
+        {
+            "id": 7,
+            "content": "SR1234T",
+            "column_min": 67,
+            "row_min": 411,
+            "column_max": 119,
+            "row_max": 420,
+            "width": 52,
+            "height": 9
+        },
+        {
+            "id": 8,
+            "content": "EXTEND",
+            "column_min": 59,
+            "row_min": 468,
+            "column_max": 114,
+            "row_max": 480,
+            "width": 55,
+            "height": 12
+        },
+        {
+            "id": 9,
+            "content": "Time Left",
+            "column_min": 136,
+            "row_min": 189,
+            "column_max": 185,
+            "row_max": 198,
+            "width": 49,
+            "height": 9
+        },
+        {
+            "id": 10,
+            "content": "29 MN",
+            "column_min": 128,
+            "row_min": 218,
+            "column_max": 200,
+            "row_max": 246,
+            "width": 72,
+            "height": 28
+        },
+        {
+            "id": 11,
+            "content": "Blk 29-39 Dover Road CLAR6",
+            "column_min": 67,
+            "row_min": 370,
+            "column_max": 238,
+            "row_max": 382,
+            "width": 171,
+            "height": 12
+        },
+        {
+            "id": 12,
+            "content": "Cost",
+            "column_min": 222,
+            "row_min": 283,
+            "column_max": 245,
+            "row_max": 292,
+            "width": 23,
+            "height": 9
+        },
+        {
+            "id": 13,
+            "content": "$ 0.60",
+            "column_min": 203,
+            "row_min": 307,
+            "column_max": 264,
+            "row_max": 330,
+            "width": 61,
+            "height": 23
+        },
+        {
+            "id": 14,
+            "content": "END EARLY",
+            "column_min": 196,
+            "row_min": 469,
+            "column_max": 273,
+            "row_max": 479,
+            "width": 77,
+            "height": 10
+        },
+        {
+            "id": 15,
+            "content": "North",
+            "column_min": 309,
+            "row_min": 134,
+            "column_max": 319,
+            "row_max": 157,
+            "width": 10,
+            "height": 23
+        },
+        {
+            "id": 16,
+            "content": "Buona",
+            "column_min": 309,
+            "row_min": 108,
+            "column_max": 320,
+            "row_max": 132,
+            "width": 11,
+            "height": 24
+        },
+        {
+            "id": 17,
+            "content": "Vista",
+            "column_min": 309,
+            "row_min": 81,
+            "column_max": 320,
+            "row_max": 105,
+            "width": 11,
+            "height": 24
+        },
+        {
+            "id": 18,
+            "content": "Rd",
+            "column_min": 311,
+            "row_min": 68,
+            "column_max": 320,
+            "row_max": 79,
+            "width": 9,
+            "height": 11
+        }
+    ]
+}
