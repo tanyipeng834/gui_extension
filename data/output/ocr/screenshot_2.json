@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        512,
+        322,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "END SESSION EARLY",
+            "column_min": 97,
+            "row_min": 14,
+            "column_max": 225,
+            "row_max": 25,
+            "width": 128,
+            "height": 11
+        },
+        {
+            "id": 1,
+            "content": "Ends Today",
+            "column_min": 58,
+            "row_min": 191,
+            "column_max": 118,
+            "row_max": 202,
+            "width": 60,
+            "height": 11
+        },
+        {
+            "id": 2,
+            "content": "7:09 PM",
+            "column_min": 57,
+            "row_min": 216,
+            "column_max": 122,
+            "row_max": 235,
+            "width": 65,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "Duration",
+            "column_min": 138,
+            "row_min": 98,
+            "column_max": 182,
+            "row_max": 107,
+            "width": 44,
+            "height": 9
+        },
+        {
+            "id": 4,
+            "content": "10 MIN",
+            "column_min": 130,
+            "row_min": 125,
+            "column_max": 198,
+            "row_max": 155,
+            "width": 68,
+            "height": 30
+        },
+        {
+            "id": 5,
+            "content": "$ 0.40",
+            "column_min": 129,
+            "row_min": 294,
+            "column_max": 190,
+            "row_max": 315,
+            "width": 61,
+            "height": 21
+        },
+        {
+            "id": 6,
+            "content": "will be refunded to you",
+            "column_min": 99,
+            "row_min": 327,
+            "column_max": 220,
+            "row_max": 339,
+            "width": 121,
+            "height": 12
+        },
+        {
+            "id": 7,
+            "content": "END NOW",
+            "column_min": 127,
+            "row_min": 420,
+            "column_max": 192,
+            "row_max": 431,
+            "width": 65,
+            "height": 11
+        },
+        {
+            "id": 8,
+            "content": "Total Cost",
+            "column_min": 207,
+            "row_min": 191,
+            "column_max": 259,
+            "row_max": 200,
+            "width": 52,
+            "height": 9
+        },
+        {
+            "id": 9,
+            "content": "$ 0.20",
+            "column_min": 203,
+            "row_min": 217,
+            "column_max": 263,
+            "row_max": 238,
+            "width": 60,
+            "height": 21
+        },
+        {
+            "id": 10,
+            "content": "CANCEL",
+            "column_min": 133,
+            "row_min": 470,
+            "column_max": 187,
+            "row_max": 481,
+            "width": 54,
+            "height": 11
+        }
+    ]
+}

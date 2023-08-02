@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        512,
+        288,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "..ll TH",
+            "column_min": 29,
+            "row_min": 84,
+            "column_max": 54,
+            "row_max": 91,
+            "width": 25,
+            "height": 7
+        },
+        {
+            "id": 1,
+            "content": "9:41 AM",
+            "column_min": 127,
+            "row_min": 85,
+            "column_max": 162,
+            "row_max": 92,
+            "width": 35,
+            "height": 7
+        },
+        {
+            "id": 2,
+            "content": "Main Wi Fi",
+            "column_min": 110,
+            "row_min": 122,
+            "column_max": 175,
+            "row_max": 132,
+            "width": 65,
+            "height": 10
+        },
+        {
+            "id": 3,
+            "content": "Wi Fi Name : Main Wi Fi",
+            "column_min": 88,
+            "row_min": 163,
+            "column_max": 199,
+            "row_max": 172,
+            "width": 111,
+            "height": 9
+        },
+        {
+            "id": 4,
+            "content": "Show password",
+            "column_min": 109,
+            "row_min": 185,
+            "column_max": 178,
+            "row_max": 195,
+            "width": 69,
+            "height": 10
+        },
+        {
+            "id": 5,
+            "content": "100",
+            "column_min": 217,
+            "row_min": 85,
+            "column_max": 231,
+            "row_max": 91,
+            "width": 14,
+            "height": 6
+        },
+        {
+            "id": 6,
+            "content": "%",
+            "column_min": 232,
+            "row_min": 85,
+            "column_max": 238,
+            "row_max": 90,
+            "width": 6,
+            "height": 5
+        },
+        {
+            "id": 7,
+            "content": "Scan this QR code using your mobile device's camera",
+            "column_min": 48,
+            "row_min": 325,
+            "column_max": 240,
+            "row_max": 333,
+            "width": 192,
+            "height": 8
+        },
+        {
+            "id": 8,
+            "content": "or QR app to quickly connect to your main Wi",
+            "column_min": 58,
+            "row_min": 337,
+            "column_max": 219,
+            "row_max": 347,
+            "width": 161,
+            "height": 10
+        },
+        {
+            "id": 9,
+            "content": "Fi .",
+            "column_min": 224,
+            "row_min": 337,
+            "column_max": 231,
+            "row_max": 347,
+            "width": 7,
+            "height": 10
+        }
+    ]
+}

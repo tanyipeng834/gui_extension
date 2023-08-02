@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        512,
+        256,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:11",
+            "column_min": 5,
+            "row_min": 4,
+            "column_max": 26,
+            "row_max": 11,
+            "width": 21,
+            "height": 7
+        },
+        {
+            "id": 1,
+            "content": "Supply Ally",
+            "column_min": 14,
+            "row_min": 57,
+            "column_max": 119,
+            "row_max": 77,
+            "width": 105,
+            "height": 20
+        },
+        {
+            "id": 2,
+            "content": "Check the number of items your",
+            "column_min": 31,
+            "row_min": 113,
+            "column_max": 190,
+            "row_max": 122,
+            "width": 159,
+            "height": 9
+        },
+        {
+            "id": 3,
+            "content": "customer can purchase",
+            "column_min": 31,
+            "row_min": 127,
+            "column_max": 147,
+            "row_max": 136,
+            "width": 116,
+            "height": 9
+        },
+        {
+            "id": 4,
+            "content": "Scan customer's NRIC",
+            "column_min": 79,
+            "row_min": 170,
+            "column_max": 191,
+            "row_max": 179,
+            "width": 112,
+            "height": 9
+        },
+        {
+            "id": 5,
+            "content": "OR",
+            "column_min": 121,
+            "row_min": 219,
+            "column_max": 133,
+            "row_max": 225,
+            "width": 12,
+            "height": 6
+        },
+        {
+            "id": 6,
+            "content": "Enter NRIC number",
+            "column_min": 31,
+            "row_min": 257,
+            "column_max": 126,
+            "row_max": 264,
+            "width": 95,
+            "height": 7
+        },
+        {
+            "id": 7,
+            "content": "Check",
+            "column_min": 176,
+            "row_min": 285,
+            "column_max": 207,
+            "row_max": 292,
+            "width": 31,
+            "height": 7
+        },
+        {
+            "id": 8,
+            "content": "Built by GDS , GovTech Singapore",
+            "column_min": 90,
+            "row_min": 444,
+            "column_max": 186,
+            "row_max": 450,
+            "width": 96,
+            "height": 6
+        }
+    ]
+}

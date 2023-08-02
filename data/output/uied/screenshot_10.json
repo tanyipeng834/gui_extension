@@ -1,0 +1,589 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 16,
+            "width": 16,
+            "position": {
+                "column_min": 16,
+                "row_min": 26,
+                "column_max": 32,
+                "row_max": 42
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 19,
+            "width": 15,
+            "position": {
+                "column_min": 16,
+                "row_min": 70,
+                "column_max": 31,
+                "row_max": 89
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 25,
+            "width": 146,
+            "position": {
+                "column_min": 39,
+                "row_min": 70,
+                "column_max": 185,
+                "row_max": 95
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 20,
+            "width": 44,
+            "position": {
+                "column_min": 339,
+                "row_min": 164,
+                "column_max": 383,
+                "row_max": 184
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 123,
+            "width": 121,
+            "position": {
+                "column_min": 55,
+                "row_min": 202,
+                "column_max": 176,
+                "row_max": 325
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 62,
+            "width": 17,
+            "position": {
+                "column_min": 22,
+                "row_min": 224,
+                "column_max": 39,
+                "row_max": 286
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 14,
+            "width": 14,
+            "position": {
+                "column_min": 186,
+                "row_min": 242,
+                "column_max": 200,
+                "row_max": 256
+            }
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 132,
+            "width": 17,
+            "position": {
+                "column_min": 22,
+                "row_min": 293,
+                "column_max": 39,
+                "row_max": 425
+            }
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 21,
+            "width": 21,
+            "position": {
+                "column_min": 205,
+                "row_min": 306,
+                "column_max": 226,
+                "row_max": 327
+            }
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 21,
+            "width": 21,
+            "position": {
+                "column_min": 233,
+                "row_min": 306,
+                "column_max": 254,
+                "row_max": 327
+            }
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 21,
+            "width": 21,
+            "position": {
+                "column_min": 262,
+                "row_min": 306,
+                "column_max": 283,
+                "row_max": 327
+            }
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 21,
+            "width": 21,
+            "position": {
+                "column_min": 290,
+                "row_min": 306,
+                "column_max": 311,
+                "row_max": 327
+            }
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 17,
+            "width": 16,
+            "position": {
+                "column_min": 56,
+                "row_min": 351,
+                "column_max": 72,
+                "row_max": 368
+            }
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 16,
+            "width": 16,
+            "position": {
+                "column_min": 132,
+                "row_min": 351,
+                "column_max": 148,
+                "row_max": 367
+            }
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 16,
+            "width": 53,
+            "position": {
+                "column_min": 217,
+                "row_min": 352,
+                "column_max": 270,
+                "row_max": 368
+            }
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 9,
+            "width": 8,
+            "position": {
+                "column_min": 345,
+                "row_min": 356,
+                "column_max": 353,
+                "row_max": 365
+            }
+        },
+        {
+            "id": 16,
+            "class": "Compo",
+            "height": 31,
+            "width": 88,
+            "position": {
+                "column_min": 294,
+                "row_min": 387,
+                "column_max": 382,
+                "row_max": 418
+            }
+        },
+        {
+            "id": 17,
+            "class": "Compo",
+            "height": 125,
+            "width": 122,
+            "position": {
+                "column_min": 54,
+                "row_min": 431,
+                "column_max": 176,
+                "row_max": 556
+            }
+        },
+        {
+            "id": 18,
+            "class": "Compo",
+            "height": 16,
+            "width": 14,
+            "position": {
+                "column_min": 186,
+                "row_min": 471,
+                "column_max": 200,
+                "row_max": 487
+            }
+        },
+        {
+            "id": 19,
+            "class": "Compo",
+            "height": 34,
+            "width": 81,
+            "position": {
+                "column_min": 204,
+                "row_min": 523,
+                "column_max": 285,
+                "row_max": 557
+            }
+        },
+        {
+            "id": 20,
+            "class": "Compo",
+            "height": 16,
+            "width": 16,
+            "position": {
+                "column_min": 56,
+                "row_min": 582,
+                "column_max": 72,
+                "row_max": 598
+            }
+        },
+        {
+            "id": 21,
+            "class": "Compo",
+            "height": 16,
+            "width": 16,
+            "position": {
+                "column_min": 132,
+                "row_min": 581,
+                "column_max": 148,
+                "row_max": 597
+            }
+        },
+        {
+            "id": 22,
+            "class": "Compo",
+            "height": 14,
+            "width": 53,
+            "position": {
+                "column_min": 217,
+                "row_min": 582,
+                "column_max": 270,
+                "row_max": 596
+            }
+        },
+        {
+            "id": 23,
+            "class": "Compo",
+            "height": 9,
+            "width": 10,
+            "position": {
+                "column_min": 344,
+                "row_min": 586,
+                "column_max": 354,
+                "row_max": 595
+            }
+        },
+        {
+            "id": 24,
+            "class": "Compo",
+            "height": 31,
+            "width": 88,
+            "position": {
+                "column_min": 294,
+                "row_min": 617,
+                "column_max": 382,
+                "row_max": 648
+            }
+        },
+        {
+            "id": 25,
+            "class": "Block",
+            "height": 126,
+            "width": 364,
+            "position": {
+                "column_min": 17,
+                "row_min": 661,
+                "column_max": 381,
+                "row_max": 787
+            },
+            "children": [
+                26,
+                27,
+                44,
+                45
+            ]
+        },
+        {
+            "id": 26,
+            "class": "Compo",
+            "height": 15,
+            "width": 14,
+            "position": {
+                "column_min": 186,
+                "row_min": 701,
+                "column_max": 200,
+                "row_max": 716
+            },
+            "parent": 25
+        },
+        {
+            "id": 27,
+            "class": "Compo",
+            "height": 15,
+            "width": 55,
+            "position": {
+                "column_min": 172,
+                "row_min": 758,
+                "column_max": 227,
+                "row_max": 773
+            },
+            "parent": 25
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 12,
+            "width": 72,
+            "position": {
+                "column_min": 48,
+                "row_min": 25,
+                "column_max": 120,
+                "row_max": 37
+            },
+            "text_content": "Pre Order"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 16,
+            "width": 53,
+            "position": {
+                "column_min": 18,
+                "row_min": 129,
+                "column_max": 71,
+                "row_max": 145
+            },
+            "text_content": "Lunch"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 16,
+            "width": 95,
+            "position": {
+                "column_min": 89,
+                "row_min": 129,
+                "column_max": 184,
+                "row_max": 145
+            },
+            "text_content": "Grab & Go"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 12,
+            "width": 300,
+            "position": {
+                "column_min": 18,
+                "row_min": 164,
+                "column_max": 318,
+                "row_max": 176
+            },
+            "text_content": "Grab & Go available from 12:00 PM to 12:30 PM"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 11,
+            "width": 23,
+            "position": {
+                "column_min": 75,
+                "row_min": 353,
+                "column_max": 98,
+                "row_max": 364
+            },
+            "text_content": "Info"
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 11,
+            "width": 21,
+            "position": {
+                "column_min": 75,
+                "row_min": 584,
+                "column_max": 96,
+                "row_max": 595
+            },
+            "text_content": "Info"
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 11,
+            "width": 23,
+            "position": {
+                "column_min": 153,
+                "row_min": 353,
+                "column_max": 176,
+                "row_max": 364
+            },
+            "text_content": "343"
+        },
+        {
+            "id": 35,
+            "class": "Text",
+            "height": 9,
+            "width": 24,
+            "position": {
+                "column_min": 151,
+                "row_min": 584,
+                "column_max": 175,
+                "row_max": 593
+            },
+            "text_content": "562"
+        },
+        {
+            "id": 36,
+            "class": "Text",
+            "height": 13,
+            "width": 106,
+            "position": {
+                "column_min": 206,
+                "row_min": 240,
+                "column_max": 312,
+                "row_max": 253
+            },
+            "text_content": "Hawaiian Pizza"
+        },
+        {
+            "id": 37,
+            "class": "Text",
+            "height": 13,
+            "width": 50,
+            "position": {
+                "column_min": 206,
+                "row_min": 262,
+                "column_max": 256,
+                "row_max": 275
+            },
+            "text_content": "320 kcal"
+        },
+        {
+            "id": 38,
+            "class": "Text",
+            "height": 8,
+            "width": 78,
+            "position": {
+                "column_min": 204,
+                "row_min": 293,
+                "column_max": 282,
+                "row_max": 301
+            },
+            "text_content": "Alergen contents"
+        },
+        {
+            "id": 39,
+            "class": "Text",
+            "height": 14,
+            "width": 105,
+            "position": {
+                "column_min": 276,
+                "row_min": 70,
+                "column_max": 381,
+                "row_max": 84
+            },
+            "text_content": "Thu , 28th Nov."
+        },
+        {
+            "id": 40,
+            "class": "Text",
+            "height": 15,
+            "width": 161,
+            "position": {
+                "column_min": 204,
+                "row_min": 470,
+                "column_max": 365,
+                "row_max": 485
+            },
+            "text_content": "Roast Vegetable Pizza"
+        },
+        {
+            "id": 41,
+            "class": "Text",
+            "height": 9,
+            "width": 50,
+            "position": {
+                "column_min": 206,
+                "row_min": 492,
+                "column_max": 256,
+                "row_max": 501
+            },
+            "text_content": "240 kcal"
+        },
+        {
+            "id": 42,
+            "class": "Text",
+            "height": 10,
+            "width": 17,
+            "position": {
+                "column_min": 318,
+                "row_min": 354,
+                "column_max": 335,
+                "row_max": 364
+            },
+            "text_content": "4.2"
+        },
+        {
+            "id": 43,
+            "class": "Text",
+            "height": 8,
+            "width": 17,
+            "position": {
+                "column_min": 318,
+                "row_min": 585,
+                "column_max": 335,
+                "row_max": 593
+            },
+            "text_content": "4.8"
+        },
+        {
+            "id": 44,
+            "class": "Text",
+            "height": 11,
+            "width": 140,
+            "position": {
+                "column_min": 206,
+                "row_min": 701,
+                "column_max": 346,
+                "row_max": 712
+            },
+            "text_content": "Chicken BBQ Bacon",
+            "parent": 25
+        },
+        {
+            "id": 45,
+            "class": "Text",
+            "height": 10,
+            "width": 34,
+            "position": {
+                "column_min": 206,
+                "row_min": 721,
+                "column_max": 240,
+                "row_max": 731
+            },
+            "text_content": "Pizza",
+            "parent": 25
+        }
+    ],
+    "img_shape": [
+        800,
+        400,
+        3
+    ]
+}

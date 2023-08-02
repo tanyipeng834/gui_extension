@@ -1,0 +1,139 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 358,
+            "width": 349,
+            "position": {
+                "column_min": 25,
+                "row_min": 149,
+                "column_max": 374,
+                "row_max": 507
+            },
+            "children": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 43,
+            "width": 295,
+            "position": {
+                "column_min": 52,
+                "row_min": 251,
+                "column_max": 347,
+                "row_max": 294
+            },
+            "parent": 0
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 43,
+            "width": 187,
+            "position": {
+                "column_min": 51,
+                "row_min": 430,
+                "column_max": 238,
+                "row_max": 473
+            },
+            "parent": 0
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 44,
+            "width": 96,
+            "position": {
+                "column_min": 252,
+                "row_min": 429,
+                "column_max": 348,
+                "row_max": 473
+            },
+            "parent": 0
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 25,
+            "width": 24,
+            "position": {
+                "column_min": 108,
+                "row_min": 686,
+                "column_max": 132,
+                "row_max": 711
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 18,
+            "width": 17,
+            "position": {
+                "column_min": 75,
+                "row_min": 767,
+                "column_max": 92,
+                "row_max": 785
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 17,
+            "width": 16,
+            "position": {
+                "column_min": 191,
+                "row_min": 767,
+                "column_max": 207,
+                "row_max": 784
+            }
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 18,
+            "width": 18,
+            "position": {
+                "column_min": 305,
+                "row_min": 767,
+                "column_max": 323,
+                "row_max": 785
+            }
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 31,
+            "width": 164,
+            "position": {
+                "column_min": 21,
+                "row_min": 89,
+                "column_max": 185,
+                "row_max": 120
+            },
+            "text_content": "Supply Ally"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 10,
+            "width": 150,
+            "position": {
+                "column_min": 140,
+                "row_min": 693,
+                "column_max": 290,
+                "row_max": 703
+            },
+            "text_content": "Built by GDS , GovTech Singapore"
+        }
+    ],
+    "img_shape": [
+        800,
+        400,
+        3
+    ]
+}

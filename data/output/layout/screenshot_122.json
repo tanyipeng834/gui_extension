@@ -1,0 +1,192 @@
+[
+    {
+        "id": "b-1",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-1",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 141,
+                    "right": 160,
+                    "top": 73,
+                    "bottom": 93
+                }
+            },
+            {
+                "id": "c-2",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 183,
+                    "right": 264,
+                    "top": 78,
+                    "bottom": 91
+                }
+            }
+        ],
+        "location": {
+            "left": 141,
+            "right": 264,
+            "top": 73,
+            "bottom": 93
+        }
+    },
+    {
+        "id": "b-2",
+        "class": "Block",
+        "children": [
+            {
+                "id": "l-0",
+                "class": "List",
+                "text_content": null,
+                "location": {
+                    "left": 58,
+                    "right": 82,
+                    "top": 168,
+                    "bottom": 190
+                },
+                "list_class": "single",
+                "list_alignment": "v",
+                "list_items": [
+                    [
+                        {
+                            "id": "c-4",
+                            "class": "Compo",
+                            "text_content": null,
+                            "location": {
+                                "left": 58,
+                                "right": 81,
+                                "top": 168,
+                                "bottom": 173
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "id": "c-5",
+                            "class": "Compo",
+                            "text_content": null,
+                            "location": {
+                                "left": 58,
+                                "right": 81,
+                                "top": 176,
+                                "bottom": 181
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "id": "c-6",
+                            "class": "Compo",
+                            "text_content": null,
+                            "location": {
+                                "left": 58,
+                                "right": 82,
+                                "top": 184,
+                                "bottom": 190
+                            }
+                        }
+                    ]
+                ]
+            },
+            {
+                "id": "c-13",
+                "class": "Text",
+                "text_content": "Main Wi Fi",
+                "location": {
+                    "left": 171,
+                    "right": 273,
+                    "top": 190,
+                    "bottom": 206
+                }
+            },
+            {
+                "id": "c-3",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 369,
+                    "right": 393,
+                    "top": 165,
+                    "bottom": 191
+                }
+            }
+        ],
+        "location": {
+            "left": 58,
+            "right": 393,
+            "top": 165,
+            "bottom": 206
+        }
+    },
+    {
+        "id": "b-3",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-7",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 151,
+                    "right": 298,
+                    "top": 331,
+                    "bottom": 477
+                }
+            },
+            {
+                "id": "c-8",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 318,
+                    "right": 337,
+                    "top": 453,
+                    "bottom": 476
+                }
+            }
+        ],
+        "location": {
+            "left": 151,
+            "right": 337,
+            "top": 331,
+            "bottom": 477
+        }
+    },
+    {
+        "id": "b-4",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-9",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 211,
+                    "right": 220,
+                    "top": 763,
+                    "bottom": 772
+                }
+            },
+            {
+                "id": "c-10",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 230,
+                    "right": 240,
+                    "top": 764,
+                    "bottom": 772
+                }
+            }
+        ],
+        "location": {
+            "left": 211,
+            "right": 240,
+            "top": 763,
+            "bottom": 772
+        }
+    }
+]

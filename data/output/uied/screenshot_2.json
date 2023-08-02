@@ -1,0 +1,141 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Block",
+            "height": 122,
+            "width": 452,
+            "position": {
+                "column_min": 24,
+                "row_min": 278,
+                "column_max": 476,
+                "row_max": 400
+            },
+            "children": [
+                2,
+                3
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 64,
+            "width": 454,
+            "position": {
+                "column_min": 23,
+                "row_min": 634,
+                "column_max": 477,
+                "row_max": 698
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 121,
+            "width": 225,
+            "position": {
+                "column_min": 24,
+                "row_min": 278,
+                "column_max": 249,
+                "row_max": 399
+            },
+            "parent": 0
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 117,
+            "width": 223,
+            "position": {
+                "column_min": 252,
+                "row_min": 280,
+                "column_max": 475,
+                "row_max": 397
+            },
+            "parent": 0
+        },
+        {
+            "id": 4,
+            "class": "Text",
+            "height": 18,
+            "width": 200,
+            "position": {
+                "column_min": 151,
+                "row_min": 21,
+                "column_max": 351,
+                "row_max": 39
+            },
+            "text_content": "END SESSION EARLY"
+        },
+        {
+            "id": 5,
+            "class": "Text",
+            "height": 14,
+            "width": 69,
+            "position": {
+                "column_min": 215,
+                "row_min": 153,
+                "column_max": 284,
+                "row_max": 167
+            },
+            "text_content": "Duration"
+        },
+        {
+            "id": 6,
+            "class": "Text",
+            "height": 47,
+            "width": 106,
+            "position": {
+                "column_min": 203,
+                "row_min": 195,
+                "column_max": 309,
+                "row_max": 242
+            },
+            "text_content": "10 MIN"
+        },
+        {
+            "id": 7,
+            "class": "Text",
+            "height": 33,
+            "width": 95,
+            "position": {
+                "column_min": 201,
+                "row_min": 459,
+                "column_max": 296,
+                "row_max": 492
+            },
+            "text_content": "$ 0.40"
+        },
+        {
+            "id": 8,
+            "class": "Text",
+            "height": 19,
+            "width": 189,
+            "position": {
+                "column_min": 154,
+                "row_min": 510,
+                "column_max": 343,
+                "row_max": 529
+            },
+            "text_content": "will be refunded to you"
+        },
+        {
+            "id": 9,
+            "class": "Text",
+            "height": 17,
+            "width": 85,
+            "position": {
+                "column_min": 207,
+                "row_min": 734,
+                "column_max": 292,
+                "row_max": 751
+            },
+            "text_content": "CANCEL"
+        }
+    ],
+    "img_shape": [
+        800,
+        503,
+        3
+    ]
+}

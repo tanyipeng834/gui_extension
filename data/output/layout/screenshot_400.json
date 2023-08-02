@@ -1,0 +1,92 @@
+[
+    {
+        "id": "b-1",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-0",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 25,
+                    "right": 374,
+                    "top": 149,
+                    "bottom": 507
+                }
+            },
+            {
+                "id": "c-2",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 51,
+                    "right": 238,
+                    "top": 430,
+                    "bottom": 473
+                }
+            },
+            {
+                "id": "c-1",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 52,
+                    "right": 347,
+                    "top": 251,
+                    "bottom": 294
+                }
+            },
+            {
+                "id": "c-3",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 252,
+                    "right": 348,
+                    "top": 429,
+                    "bottom": 473
+                }
+            }
+        ],
+        "location": {
+            "left": 25,
+            "right": 374,
+            "top": 149,
+            "bottom": 507
+        }
+    },
+    {
+        "id": "b-2",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-4",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 108,
+                    "right": 132,
+                    "top": 686,
+                    "bottom": 711
+                }
+            },
+            {
+                "id": "c-9",
+                "class": "Text",
+                "text_content": "Built by GDS , GovTech Singapore",
+                "location": {
+                    "left": 140,
+                    "right": 290,
+                    "top": 693,
+                    "bottom": 703
+                }
+            }
+        ],
+        "location": {
+            "left": 108,
+            "right": 290,
+            "top": 686,
+            "bottom": 711
+        }
+    }
+]

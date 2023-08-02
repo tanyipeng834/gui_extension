@@ -1,0 +1,123 @@
+[
+    {
+        "id": "b-1",
+        "class": "Block",
+        "children": [
+            {
+                "id": "c-1",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 23,
+                    "right": 477,
+                    "top": 634,
+                    "bottom": 698
+                }
+            },
+            {
+                "id": "c-0",
+                "class": "Block",
+                "text_content": null,
+                "location": {
+                    "left": 24,
+                    "right": 476,
+                    "top": 278,
+                    "bottom": 400
+                }
+            },
+            {
+                "id": "c-2",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 24,
+                    "right": 249,
+                    "top": 278,
+                    "bottom": 399
+                }
+            },
+            {
+                "id": "c-8",
+                "class": "Text",
+                "text_content": "will be refunded to you",
+                "location": {
+                    "left": 154,
+                    "right": 343,
+                    "top": 510,
+                    "bottom": 529
+                }
+            },
+            {
+                "id": "l-0",
+                "class": "List",
+                "text_content": null,
+                "location": {
+                    "left": 201,
+                    "right": 309,
+                    "top": 195,
+                    "bottom": 751
+                },
+                "list_class": "single",
+                "list_alignment": "v",
+                "list_items": [
+                    [
+                        {
+                            "id": "c-6",
+                            "class": "Text",
+                            "text_content": "10 MIN",
+                            "location": {
+                                "left": 203,
+                                "right": 309,
+                                "top": 195,
+                                "bottom": 242
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "id": "c-7",
+                            "class": "Text",
+                            "text_content": "$ 0.40",
+                            "location": {
+                                "left": 201,
+                                "right": 296,
+                                "top": 459,
+                                "bottom": 492
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "id": "c-9",
+                            "class": "Text",
+                            "text_content": "CANCEL",
+                            "location": {
+                                "left": 207,
+                                "right": 292,
+                                "top": 734,
+                                "bottom": 751
+                            }
+                        }
+                    ]
+                ]
+            },
+            {
+                "id": "c-3",
+                "class": "Compo",
+                "text_content": null,
+                "location": {
+                    "left": 252,
+                    "right": 475,
+                    "top": 280,
+                    "bottom": 397
+                }
+            }
+        ],
+        "location": {
+            "left": 23,
+            "right": 477,
+            "top": 195,
+            "bottom": 751
+        }
+    }
+]
